@@ -7,6 +7,7 @@ I'm a student at university from China. I'm really into computer science, and I 
 <table align="center">
 <tr>
 <td><img src="images/doro.jpg"></td>
+<td align="center">
 <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amiya55&langs_count=6"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amiya55&layout=compact&langs_count=6"></td>
 </tr>
 </table>

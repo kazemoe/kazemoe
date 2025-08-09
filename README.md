@@ -1,4 +1,10 @@
+<img align="right" src="https://count.getloli.com/@Amiya55?name=Amiya55&theme=original-new&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto">
+
 ## Hi there 👋
+
+I'm a student at university. I'm really into computer science, and I love coding and anime.
+
+![doro](images/doro.jpg)
 
 <!--
 **Amiya55/Amiya55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

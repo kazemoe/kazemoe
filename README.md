@@ -4,12 +4,12 @@
 
 I'm a student at university from China. I'm really into computer science, and I love coding and anime.
 
-![doro](images/doro.jpg)
-
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amiya55&langs_count=6)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amiya55&layout=compact&langs_count=6)
+<table align="center">
+<tr>
+<td><img src="images/doro.jpg"></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amiya55&langs_count=6"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amiya55&layout=compact&langs_count=6"></td>
+</tr>
+</table>
 
 <!--
 **Amiya55/Amiya55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

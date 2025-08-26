@@ -18,7 +18,7 @@ I'm a student at university from China. I'm really into computer science, and I 
 ### Github Contributions
 
 <div class="github-contributions">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amiya55&show_icons=true&theme=tokynight"></td>
+  <img src="https://github-readme-stats.vercel.app/api?username=kazemoe&show_icons=true&theme=tokynight"></td>
 </div>
 
 <!--

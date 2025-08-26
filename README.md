@@ -20,7 +20,6 @@ I'm a student at university from China. I'm really into computer science, and I 
 <table align="center">
 <tr>
 <td><img src="https://github-readme-stats.vercel.app/api?username=Amiya55&show_icons=true&theme=tokynight"></td>
-<td><div align="center", href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Amiya55&theme=catppuccin-frappe" alt="GitHub Streak" /></div></td>
 </tr>
 </table>
 

@@ -17,13 +17,9 @@ I'm a student at university from China. I'm really into computer science, and I 
 
 ### Github Contributions
 
-<table align="center">
-<tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=Amiya55&show_icons=true&theme=tokynight"></td>
-</tr>
-</table>
-
-
+<div class="github-contributions">
+  <img src="https://github-readme-stats.vercel.app/api?username=Amiya55&show_icons=true&theme=tokynight"></td>
+</div>
 
 <!--
 **Amiya55/Amiya55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

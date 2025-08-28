@@ -1,4 +1,4 @@
-<img align="right" src="https://count.getloli.com/@Amiya55?name=Amiya55&theme=original-new&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto">
+<img align="right" src="https://count.getloli.com/@kazemoe?name=kazemoe&theme=original-new&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto">
 
 ## Hi there 👋
 
@@ -7,7 +7,7 @@ I'm a student at university from China. I'm really into computer science, and I 
 <table align="center">
 <tr>
 <td><img src="images/doro.jpg"></td>
-<td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amiya55&langs_count=6"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amiya55&layout=compact&langs_count=6"></td>
+<td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazemoe&langs_count=6"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazemoe&layout=compact&langs_count=6"></td>
 </tr>
 </table>
 
